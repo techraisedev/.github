@@ -1,25 +1,23 @@
-# 👋 Bem-vindo à TechRaise
+Transformando ideias em código.
+Startup focada em desenvolvimento de softwares e soluções digitais sob medida.
 
-🚀 A **TechRaise** é uma startup focada em **desenvolvimento de softwares e soluções digitais**.  
-Aqui você encontrará projetos fictícios e reais que demonstram nossa capacidade de transformar ideias em código.  
+### O que fazemos
 
-### 🌟 O que fazemos
-- Landing pages modernas e responsivas  
-- Sistemas web com backend robusto  
-- Dashboards e painéis administrativos  
-- Soluções sob medida para startups e empreendedores  
+- Landing pages modernas e responsivas
+- Sistemas web com backend robusto
+- Dashboards e painéis administrativos
+- Soluções personalizadas para startups e empreendedores
 
-### 🛠️ Tecnologias que usamos
-- **Backend:** Java, Spring Boot, Node.js  
-- **Frontend:** React, JavaScript, HTML, CSS  
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Outros:** Swagger, Docker, Git  
+### Nossa abordagem tecnológica
 
-### 🎯 Nosso objetivo
-Criar um portfólio sólido, aprender continuamente e entregar softwares que impulsionem negócios.  
+Na TechRaise, acreditamos que cada projeto merece a tecnologia certa.
+Não seguimos uma única stack: analisamos cada demanda e adotamos a linguagem, framework e arquitetura que garantam melhor performance, escalabilidade e inovação.
 
----
+### Nossa missão
 
-🔗 Nos siga também nas redes sociais (em breve):  
-[Instagram](#) | [LinkedIn](#) | [Twitter](#)  
+Construir um portfólio sólido, evoluir continuamente e criar softwares que impulsionem negócios.
 
+🔗 Em breve nas redes sociais:
+Instagram
+ | LinkedIn
+ | Twitter
